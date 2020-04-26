@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://just-201706.github.io</id>
     <title>周洪徵的博客</title>
-    <updated>2020-04-26T10:58:01.667Z</updated>
+    <updated>2020-04-26T10:58:51.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://just-201706.github.io"/>
     <link rel="self" href="https://just-201706.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 周洪徵的博客</rights>
     <entry>
         <title type="html"><![CDATA[HELLO WORLD]]></title>
-        <id>https://just-201706.github.io/post/hello-world/</id>
-        <link href="https://just-201706.github.io/post/hello-world/">
+        <id>https://just-201706.github.io/hello-world/</id>
+        <link href="https://just-201706.github.io/hello-world/">
         </link>
         <updated>2020-04-26T08:51:13.000Z</updated>
         <content type="html"><![CDATA[<p>我是周洪徵，一个平凡的普通人👀，这个博客将会记录我的一些碎语，如果文章里的某些内容能帮到你那再好不过啦😉</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网站推荐第一期]]></title>
-        <id>https://just-201706.github.io/post/wang-zhan-tui-jian-di-yi-qi/</id>
-        <link href="https://just-201706.github.io/post/wang-zhan-tui-jian-di-yi-qi/">
+        <id>https://just-201706.github.io/wang-zhan-tui-jian-di-yi-qi/</id>
+        <link href="https://just-201706.github.io/wang-zhan-tui-jian-di-yi-qi/">
         </link>
         <updated>2020-04-26T07:57:09.000Z</updated>
         <content type="html"><![CDATA[<p>这篇文章主要是记录自己的一些常用网站，也算是一个备忘录了😀，常用的就不加网址了</p>
