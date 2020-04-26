@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://just-201706.github.io</id>
     <title>周洪徵的博客</title>
-    <updated>2020-04-26T07:50:34.797Z</updated>
+    <updated>2020-04-26T08:31:21.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://just-201706.github.io"/>
     <link rel="self" href="https://just-201706.github.io/atom.xml"/>
@@ -10,4 +10,46 @@
     <logo>https://just-201706.github.io/images/avatar.png</logo>
     <icon>https://just-201706.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 周洪徵的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[网站推荐第一期]]></title>
+        <id>https://just-201706.github.io/post/wang-zhan-tui-jian-di-yi-qi/</id>
+        <link href="https://just-201706.github.io/post/wang-zhan-tui-jian-di-yi-qi/">
+        </link>
+        <updated>2020-04-26T07:57:09.000Z</updated>
+        <content type="html"><![CDATA[<p>这篇文章主要是记录自己的一些常用网站，也算是一个备忘录了😀，常用的就不加网址了</p>
+<p>导航类：<br>
+●龙轩导航：http://ilxdh.com/<br>
+●果汁导航：http://guozhivip.com/nav/<br>
+●沃克导航：http://www.waysto.work/<br>
+●小森林导航：http://www.uziqaq.com/</p>
+<p>搜索类：<br>
+●百度<br>
+●搜狗微信<br>
+●谷歌<br>
+●多吉搜索：https://www.dogedoge.com/<br>
+●网盘搜索类</p>
+<p>文献类：<br>
+●浙江省图书馆：http://zjisa.zjlib.cn/home/zy_home.jsp<br>
+●idata：https://www.cn-ki.net/<br>
+●国家哲学社会科学文献中心：http://www.ncpssd.org/<br>
+●百度文库</p>
+<p>资讯类：<br>
+●知乎<br>
+●bilibili<br>
+●今日热榜：https://tophub.today/c/tech<br>
+漫画网站：<br>
+●https://volmoe.com/<br>
+小说网站：<br>
+●知轩藏书<br>
+●优书网</p>
+<p>软件类：<br>
+●胡萝卜周<br>
+●阿虚同学的储物间<br>
+●懒人找资源</p>
+<p>论坛类：<br>
+●吾爱破解<br>
+●matlab论坛</p>
+<p>未完待续🚩</p>
+]]></content>
+    </entry>
 </feed>
