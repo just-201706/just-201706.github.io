@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://just-201706.github.io</id>
     <title>周洪徵的博客</title>
-    <updated>2020-04-26T11:46:42.011Z</updated>
+    <updated>2020-04-26T11:53:47.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://just-201706.github.io"/>
     <link rel="self" href="https://just-201706.github.io/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="https://just-201706.github.io/hello-world/">
         </link>
         <updated>2020-04-26T08:51:13.000Z</updated>
-        <content type="html"><![CDATA[<p>我是周洪徵，一个平凡的普通人👀，这个博客将会记录我的一些碎语，如果文章里的某些内容能帮到你那再好不过啦😉</p>
+        <summary type="html"><![CDATA[<p>我叫周洪徵，一个平凡的普通人👀，这个博客将会记录我的一些碎语和随笔📄，</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我叫周洪徵，一个平凡的普通人👀，这个博客将会记录我的一些碎语和随笔📄，</p>
+<!-- more -->
+<p>如果文章里的某些内容能帮到你那再好不过啦😉</p>
 ]]></content>
     </entry>
     <entry>
