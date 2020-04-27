@@ -2065,10 +2065,10 @@ pre > span.copy-code:hover {
   font-weight: bold;
 }
 body {
-      background-color: #eee;
+      background-color: #4c6ef5;
     }
     .nav-toggle .line {
-      background-color: #eee !important;
+      background-color: #4c6ef5 !important;
     }.header {
         width: 960px;
         margin: 0 auto;
