@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://just-201706.github.io</id>
     <title>周洪徵的博客</title>
-    <updated>2020-04-26T11:55:39.583Z</updated>
+    <updated>2020-04-27T02:01:55.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://just-201706.github.io"/>
     <link rel="self" href="https://just-201706.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://just-201706.github.io/images/avatar.png</logo>
     <icon>https://just-201706.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 周洪徵的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[如何建立自己的博客]]></title>
+        <id>https://just-201706.github.io/X50-MTYlP/</id>
+        <link href="https://just-201706.github.io/X50-MTYlP/">
+        </link>
+        <updated>2020-04-27T01:48:21.000Z</updated>
+        <content type="html"><![CDATA[<p>一般来说，建立自己的网站需要很多步骤，比方说注册域名，购买服务器，进行备案等等，对于大多数人来说，我们只是想建立自己的博客而已，并不需要做这么多繁琐的步骤，所以用GitHub pages就是一个不错的选择。<br>
+首先用GitHub pages是免费的😀（这个很重要不需要购买服务器，这是一笔不小的开支），其次网上有许多关于GitHub pages的教程，教程是很详细但到最后的步骤，涉及到一堆代码编程，对于大多数不懂编程的我们，如何进行网站的建立呢？<br>
+最主要的我们需要注册GitHub的帐号，这是必不可少的，有了账号之后，需要创建自己的仓库，仓库名字为xxx.github.io，其中xxx为你github的username。比方说你注册的GitHub账号名字为666，那么你仓库的名就是你的用户名加上github.io为666.github.io,接下来的步骤就不详细叙述了，按照网站上的顺序一直创建即可，最后按照步骤一路操作下来你的网站最后就是https://666.github.io/。在浏览器地址栏输入你的网址我们就可以访问了。<br>
+那么再然后呢建立好了网站，我们怎样进行自己网站的优化呢，网上的教程对于小白过于不友好，首先我们需要介绍一款工具Gridea，这是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。，软件的官网为：https://gridea.dev/，官方给出了详细的教程：https://gridea.dev/gridea-start/ 按照这篇地址的步骤下你就可以采用Gridea来进行对你的网站的优化和写作了，<br>
+最后我的博客：👉https://just-201706.github.io/👈就是按照这样的方式搭建起来的。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HELLO WORLD]]></title>
         <id>https://just-201706.github.io/hello-world/</id>
