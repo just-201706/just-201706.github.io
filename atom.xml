@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://just-201706.github.io</id>
     <title>周洪徵的博客</title>
-    <updated>2020-05-27T09:47:17.165Z</updated>
+    <updated>2020-05-27T10:04:28.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://just-201706.github.io"/>
     <link rel="self" href="https://just-201706.github.io/atom.xml"/>
@@ -11,16 +11,34 @@
     <icon>https://just-201706.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 周洪徵的博客</rights>
     <entry>
+        <title type="html"><![CDATA[20年5月日志]]></title>
+        <id>https://just-201706.github.io/TnM-W7bXK/</id>
+        <link href="https://just-201706.github.io/TnM-W7bXK/">
+        </link>
+        <updated>2020-05-27T09:48:56.000Z</updated>
+        <content type="html"><![CDATA[<p>最近开始准备考研了，并且过一段时间就要期末考试，暑假时间宝贵，博客肯定不会写了，在4月份左右我建了这个博客后，前几天又开始注册了自己的网盘和导航网站。还有个网络沙盘当然时这个灵时不灵的在考完研后。从明年开始我就要开始更新我的博客了，网盘和导航网站也会完善起来。<br>
+给自己立几个flag吧：<br>
+1.今年的考研成功上岸<br>
+2.明年寒假打份零工<br>
+3.自学matlab，spss，了解下python，重学网络技术<br>
+4.在考研后开始更新博客/网盘/导航/<br>
+5.打算明年写点关于丹东地区历史的文字<br>
+其他的就是顺其自然了，文章能发表更好，6月份开始期末了，备战期末。额好像今年没别的什么愿望了，再就是愿母亲的身体好些吧。<br>
+加油吧骚年，努力奋斗！！<br>
+奥里给！！！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何建立自己的博客]]></title>
         <id>https://just-201706.github.io/X50-MTYlP/</id>
         <link href="https://just-201706.github.io/X50-MTYlP/">
         </link>
         <updated>2020-04-27T01:48:21.000Z</updated>
-        <content type="html"><![CDATA[<p>一般来说，建立自己的网站需要很多步骤，比方说注册域名，购买服务器，进行备案等等，对于大多数人来说，我们只是想建立自己的博客而已，并不需要做这么多繁琐的步骤，所以用GitHub pages就是一个不错的选择。<br>
-首先用GitHub pages是免费的😀（这个很重要不需要购买服务器，这是一笔不小的开支），其次网上有许多关于GitHub pages的教程，教程是很详细但到最后的步骤，涉及到一堆代码编程，对于大多数不懂编程的我们，如何进行网站的建立呢？<br>
-最主要的我们需要注册GitHub的帐号，这是必不可少的，有了账号之后，需要创建自己的仓库，仓库名字为xxx.github.io，其中xxx为你github的username。比方说你注册的GitHub账号名字为666，那么你仓库的名就是你的用户名加上github.io为666.github.io,接下来的步骤就不详细叙述了，按照网站上的顺序一直创建即可，最后按照步骤一路操作下来你的网站最后就是https://666.github.io/。在浏览器地址栏输入你的网址我们就可以访问了。<br>
-那么再然后呢建立好了网站，我们怎样进行自己网站的优化呢，网上的教程对于小白过于不友好，首先我们需要介绍一款工具Gridea，这是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。，软件的官网为：https://gridea.dev/，官方给出了详细的教程：https://gridea.dev/gridea-start/ 按照这篇地址的步骤下你就可以采用Gridea来进行对你的网站的优化和写作了，<br>
-最后我的博客：👉https://just-201706.github.io/👈就是按照这样的方式搭建起来的。</p>
+        <content type="html"><![CDATA[<pre><code>  一般来说，建立自己的网站需要很多步骤，比方说注册域名，购买服务器，进行备案等等，对于大多数人来说，我们只是想建立自己的博客而已，并不需要做这么多繁琐的步骤，所以用GitHub pages就是一个不错的选择。
+ 首先用GitHub pages是免费的😀（这个很重要不需要购买服务器，这是一笔不小的开支），其次网上有许多关于GitHub pages的教程，教程是很详细但到最后的步骤，涉及到一堆代码编程，对于大多数不懂编程的我们，如何进行网站的建立呢？
+   最主要的我们需要注册GitHub的帐号，这是必不可少的，有了账号之后，需要创建自己的仓库，仓库名字为xxx.github.io，其中xxx为你github的username。比方说你注册的GitHub账号名字为666，那么你仓库的名就是你的用户名加上github.io为666.github.io,接下来的步骤就不详细叙述了，按照网站上的顺序一直创建即可，最后按照步骤一路操作下来你的网站最后就是https://666.github.io/。在浏览器地址栏输入你的网址我们就可以访问了。
+   那么再然后呢建立好了网站，我们怎样进行自己网站的优化呢，网上的教程对于小白过于不友好，首先我们需要介绍一款工具Gridea，这是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。，软件的官网为：https://gridea.dev/，官方给出了详细的教程：https://gridea.dev/gridea-start/ 按照这篇地址的步骤下你就可以采用Gridea来进行对你的网站的优化和写作了，
+  最后我的博客：👉https://just-201706.github.io/👈就是按照这样的方式搭建起来的。</code></pre>
 ]]></content>
     </entry>
     <entry>
